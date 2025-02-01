@@ -42,7 +42,7 @@ header
     border-top: 4px solid rgb(0, 78, 138);
     border-bottom: 4px solid rgb(0, 78, 138); 
     text-align: center;
-    background-color: rgb(216, 235, 216);
+    background-color: linear-gradient(135deg, white, #d8d8d8);
 }
 
 h1, h2{
@@ -52,11 +52,11 @@ h1, h2{
 a, a:focus {
     outline: none;
     text-decoration: none;
-    color: red;
+    color: #a44;
 }
 
 a:visited {
-  color: rgb(209, 3, 255);
+  color: #a85;
 }
 
 a:hover
